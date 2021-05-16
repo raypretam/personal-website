@@ -1,0 +1,14 @@
+# Site settings
+title: Pretam Ray
+description: Jekyll Theme Minimal Resume
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Pretam Ray
+user_description: I am an undergraduate student at Indian Institute of Engineering, Science and Technology,Shibpur. My interest focuses more on Mathematics, Statistics, Machine Learning and Deep Learning. Getting my hands dirty in front-end developement.
+user_title: Student
+email: pretamroy309@gmail.com
+github_username:  raypretam
+
+exclude: ['package.json', 'src' , 'node_modules']
